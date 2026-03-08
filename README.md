@@ -18,10 +18,7 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 **SOC & Monitoring-** SIEM, Splunk, Wazuh, EDR, IDS/IPS
 
-### Security Analysis
-- Threat Detection
-- Log Analysis
-- Incident Triage
+** Security Analysis-** Threat Detection, Log Analysis, Incident Triage
 
 ### Tools
 - Wireshark
