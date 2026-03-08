@@ -24,11 +24,11 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 **Network Security -** TCP/IP, DNS, VPN, VAPT.
 
-**Cloud & Firewall -** : AWS, Azure, Palo Alto.
+**Cloud & Firewall -** AWS, Azure, Palo Alto.
 
-**Programming -** : Python, Javascript.
+**Programming -** Python, Javascript.
 
-**Operating Systems -** : Windows, Linux, Unix.
+**Operating Systems -** Windows, Linux, Unix.
 
 ---
 
