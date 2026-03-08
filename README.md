@@ -18,25 +18,17 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 **SOC & Monitoring -** SIEM, Splunk, Wazuh, EDR, IDS/IPS.
 
-**Security Analysis-** Threat Detection, Log Analysis, Incident Triage.
+**Security Analysis -** Threat Detection, Log Analysis, Incident Triage.
 
-**Tools -** Wireshark, Nmap, SolarWinds, JIRA.
+**Enterprise tools -** Wireshark, Nmap, SolarWinds, JIRA.
 
 **Network Security -** TCP/IP, DNS, VPN, VAPT.
 
-### Cloud & Firewall
-- AWS
-- Azure
-- Palo Alto Firewall
+**Cloud & Firewall -** : AWS, Azure, Palo Alto.
 
-### Programming
-- Python
-- JavaScript
+**Programming -** : Python, Javascript.
 
-### Operating Systems
-- Windows
-- Linux
-- Unix
+**Operating Systems -** : Windows, Linux, Unix.
 
 ---
 
