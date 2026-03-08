@@ -16,19 +16,19 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## ⚙️ Skills
 
-**SOC & Monitoring -** SIEM , Splunk , Wazuh , EDR , IDS/IPS
+**Security response -** Threat Detection, Log Analysis, **Incident Response**.
 
-**Security Analysis -** Threat Detection, Log Analysis, Incident Triage.
+**SOC & Monitoring -** **SIEM**, NDR, EDR ,Ticketing, SOAR.
 
-**Enterprise tools -** Wireshark , Nmap , SolarWinds, JIRA.
+**Enterprise tools -** CrowdStrike, **Splunk**, Wireshark, JIRA.
 
-**Network Security -** TCP/IP , DNS , VPN , VAPT.
+**Networking security -** TCP/IP, **IDS/IPS**, HTTPS, VPN, VAPT.
 
 **Cloud & Firewall -** AWS , Azure , Palo Alto.
 
 **Programming -** Python , Javascript.
 
-**Operating Systems -** Windows , Linux , Unix.
+**Operating Systems -** Windows ,**Linux**, Unix.
 
 ---
 
@@ -54,13 +54,7 @@ Responsibilities:
 
 Developed a SOC automation tool to assist threat analysts with automated reputation checks and log analysis.
 
-**Technologies**
-
-- Python
-- CLI automation
-- DNS & reputation APIs (VirusTotal)
-- Log parsing
-- Linux environment
+**Technologies -** Python, CLI automation, DNS & reputation APIs (VirusTotal), Log parsing, Linux environment
 
 ---
 
@@ -70,20 +64,15 @@ Developed a SOC automation tool to assist threat analysts with automated reputat
 
 Deployed a honeypot to attract attackers and analyze captured logs for threat intelligence and security monitoring.
 
-**Technologies**
-
-- Python
-- Web honeypot components
-- Log analysis
-- Threat reporting tools
-- Linux environment
+**Technologies -**, Python, Web honeypot components, Log analysis, Threat reporting tools, Linux environment
 
 ---
 
 ## 📜 Certifications
 
 - SIEM Fundamentals – Cisco Networking Academy
-- Cybersecurity Analyst Job Simulation – Deloitte
+- Cybersecurity Analyst Job Simulation – **Deloitte**
+- Python for data science - **IIT KANPUR**
 
 ---
 
@@ -101,7 +90,7 @@ Shri Ramswaroop Memorial College of Engineering and Management
 
 ## 📌 Career Goal
 
-My goal is to become a **SOC Analyst / Network Security Professional**, specializing in **threat detection, incident response, and security monitoring**.
+My goal is to become a **SOC Analyst / Network Security Professional**, specializing in **threat detection, incident response, SIEM and security monitoring**.
 
 ---
 
