@@ -16,7 +16,7 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## ⚙️ Skills
 
-###SOC & Monitoring- SIEM, Splunk, Wazuh, EDR, IDS/IPS
+**SOC & Monitoring-** SIEM, Splunk, Wazuh, EDR, IDS/IPS
 
 ### Security Analysis
 - Threat Detection
