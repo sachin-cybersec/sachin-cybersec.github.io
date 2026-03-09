@@ -16,19 +16,19 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## ⚙️ Skills
 
-**Security response -** Threat Detection, Log Analysis, **Incident Response**.
+**Security response -** Threat Detection, Log Analysis, Incident Response.
 
-**SOC & Monitoring -** **SIEM**, NDR, EDR ,Ticketing, SOAR.
+**SOC & Monitoring -** NDR, EDR ,Ticketing, **SIEM**, SOAR.
 
-**Enterprise tools -** CrowdStrike, **Splunk**, Wireshark, JIRA.
+**Enterprise tools -** CrowdStrike, Splunk, Wireshark, JIRA.
 
-**Networking security -** TCP/IP, **IDS/IPS**, HTTPS, VPN, VAPT.
+**Networking security -** TCP/IP, IDS/IPS, HTTPS, VPN, VAPT.
 
 **Cloud & Firewall -** AWS , Azure , Palo Alto.
 
 **Programming -** Python , Javascript.
 
-**Operating Systems -** Windows ,**Linux**, Unix.
+**Operating Systems -** Windows ,Linux, Unix.
 
 ---
 
