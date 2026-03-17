@@ -34,9 +34,9 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## 💼 Work Experience
 
-### Network Support Inter 
+### Network Support Intern 
 **Pragyavani Solutions LLP**  
-📅 OCT 2025 – DEC 2026
+📅 OCT 2025 – DEC 2025
 
 Responsibilities:
 
