@@ -34,15 +34,14 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## 💼 Work Experience
 
-### Network Support Engineer  
+### Network Support Inter 
 **Pragyavani Solutions LLP**  
-📅 Feb 2025 – Feb 2026
+📅 OCT 2025 – DEC 2026
 
 Responsibilities:
 
 - Configured and supported **routers, switches, firewalls, and network devices**
 - Monitored **SIEM alerts (Splunk)** and performed **L1 triage** on suspicious activities
-- Detected **phishing, brute force, and malware alerts** using log analysis and VirusTotal
 
 ---
 
@@ -58,13 +57,13 @@ Developed a SOC automation tool to assist threat analysts with automated reputat
 
 ---
 
-### Honeypot Deployment
+### Automatic and Manual VPN
 
 **Description**
 
-Deployed a honeypot to attract attackers and analyze captured logs for threat intelligence and security monitoring.
+Hybrid VPN give option to the user according to their need. It contain 2 modes:- Automatic and Manual mode
 
-**Technologies -**, Python, Web honeypot components, Log analysis, Threat reporting tools, Linux environment
+**Technologies -**, Python, javascript, Html, OpenVPN, Linux environment, Django, Css.
 
 ---
 
