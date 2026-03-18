@@ -8,7 +8,7 @@
 
 ## 🛡️ About Me
 
-Aspiring **Security Operations Center (SOC) Analyst** with hands-on experience in SOC operations, SIEM platforms, and endpoint security. Skilled in **security monitoring, log analysis, alert triage, threat detection, and incident response** with a strong foundation in network and endpoint security. :contentReference[oaicite:0]{index=0}
+Aspiring **Network security** with hands-on experience in SOC operations, SIEM platforms, and endpoint security. Skilled in **security monitoring, log analysis, alert triage, threat detection, and incident response** with a strong foundation in network and endpoint security. :contentReference[oaicite:0]{index=0}
 
 I am passionate about **cybersecurity, threat detection, and blue team operations** and continuously work on security projects and labs to improve my skills.
 
@@ -22,7 +22,7 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 **Enterprise tools -** CrowdStrike, Splunk, Wireshark, JIRA.
 
-**Networking security -** TCP/IP, IDS/IPS, HTTPS, VPN, VAPT.
+**Networking security -** TCP/IP, IDS/IPS, HTTPS, VPN, DNS.
 
 **Cloud & Firewall -** AWS , Azure , Palo Alto.
 
@@ -34,9 +34,9 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## 💼 Work Experience
 
-### Network Support Intern 
+### Network Support Analyst 
 **Pragyavani Solutions LLP**  
-📅 OCT 2025 – DEC 2025
+📅 FEB 2025 – FEB 2026
 
 Responsibilities:
 
