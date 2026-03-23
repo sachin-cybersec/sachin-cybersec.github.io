@@ -1,8 +1,9 @@
 # 👨‍💻 Sachin Yadav
 
 📧 sachinyadav.blueteam@gmail.com  
-📱 +91 8299856735  
-🔗 LinkedIn: https://www.linkedin.com/in/sachin-cybersec  
+📱 +91 8299856735 
+🏠 Raj Nagar, Ghaziabad, UttarPradesh
+🔗 LinkedIn: https://www.linkedin.com/in/sachin-cyber/
 
 ---
 
@@ -36,7 +37,7 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ### Network Support Intern
 **Pragyavani Solutions LLP**  
-📅 OCT 2025 – DEC 2026
+📅 OCT 2025 – DEC 2025
 
 Responsibilities:
 
